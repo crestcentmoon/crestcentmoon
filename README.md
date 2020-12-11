@@ -1,5 +1,5 @@
 ### <h1 align=center> Hi!👋 </h1>
-### <h3 align=center>My name is Asry and I am an ✨IT student✨</h3>
+### <h3 align=center>My name is Asry and I am an IT student✨</h3>
 
 ### 🔭 Currently working as an IT intern 
 ### 😄 Interested in building landing pages and front-end websites, also making mock-up designs
